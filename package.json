@@ -21,7 +21,7 @@
   "homepage": "https://github.com/denghongcai/node-framebuffer",
   "dependencies": {
     "ioctl": "^1.0.0",
-    "mmap-io": "^2.0.2",
+    "mmap-io": "^0.10.0",
     "ref": "^1.0.2",
     "ref-array": "^1.1.1",
     "ref-struct": "^1.0.1"
